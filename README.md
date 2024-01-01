@@ -1,3 +1,3 @@
 # Optimism Workshops
 
-For classes we teach (as opposed to self-guided tutorials)
+For classes we teach (as opposed to self-gui.,ded tutorials)
